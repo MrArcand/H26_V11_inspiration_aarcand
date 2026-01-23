@@ -1,4 +1,5 @@
-Mon nom est Félix Arcand 
+Mon nom est Félix Arcand
+![photo](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/introduction/portrait/IMG_8748.jpg?raw=true)
 # Mon Background 
 Je suis quelqu'un de passionée. lorsque j'aime quelque chose je ne lâche pas et je fais tout en mon possible de mettre le maximum. 
 Je suis un adepte  du sport automobile commme la F1, l'endurance etc. De plus, j'adore la musique. j'en compose et j'en joue depuis longtemps. 
