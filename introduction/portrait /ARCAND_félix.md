@@ -6,3 +6,5 @@ mon humour et ma personalité passionné est ce qui me distingue.
 # Mon profil multimédia 
 J'adore l'audio. tout ce qui tourne autour de la musique. j'adore le photo montagne et le design graphique. je personalise mon casque de course à chaque année
 je personalise l'apparence de mon vélo à chaque année et j'ai redéfini le réseau du métro de montréal, vue que j'en suis un grand fan. 
+voici une photo de mon projet STM
+![photo](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/introduction/portrait/mime-attachment.PNG?raw=true)
