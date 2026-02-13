@@ -14,5 +14,6 @@ comme dans la série stranger things, Lorsque Onze elle même,  mets son casque 
  ensuite la tour d'ordinateur est le coeur de l'oeuvre interactive car c'est lui qui analyse les zones cérébrales reçu par le casque. Aussi, l'écran d'anlyse est ce qui permet d'afficher en direct ce qui passe dans le cerveau de l'utilisateur.
 
  ### Références 
- Photo prises: Félix Arcand 
+ Photo prises: Félix Arcand
+ 
 info suppl: https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php 
