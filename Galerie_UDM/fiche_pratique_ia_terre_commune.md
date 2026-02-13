@@ -8,4 +8,11 @@ comme dans la série stranger things, Lorsque Onze elle même,  mets son casque 
 ### Les dispositifs de l'oeuvre et types d'expositions
  situé temporaire  à l'intérieur de la galeries de l'université de Montréal,Marion Schneider, Nous donnent l'oppoturnité de pouvoir d'expérimenté son oeuvre intercative. Le concept est que l'intelligence artificielle puisse analyser des zones du cerveau humains en affichant le résultat avec des lignes verticales. Exemple, si le casque analyse une émotions négative, les lignes se metteront à bouger intensément de gauche à droite. si il sent que tu es calme les lignes bougeront de gauche à droite tranquillement.
 
- ###
+ ### Les éléments nécessaires à la mise d'expositions 
+ Dans le but que cette exposition puisse fonctionné, le casque cérébrale est plus qu'essentiel car 
+ c'est avec ce gadget que l'intelligence artificielle pourra analyser le cerveau
+ ensuite la tour d'ordinateur est le coeur de l'oeuvre interactive car c'est lui qui analyse les zones cérébrales reçu par le casque. Aussi, l'écran d'anlyse est ce qui permet d'afficher en direct ce qui passe dans le cerveau de l'utilisateur.
+
+ ### Références 
+ Photo prises: Félix Arcand 
+info suppl: https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php 
