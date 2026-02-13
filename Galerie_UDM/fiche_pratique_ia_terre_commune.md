@@ -2,6 +2,8 @@
 ## L'oeuvre en question - Terre Commune réalisé par Marion Schneider
 
 ![Moi, Félix Arcand](media/moi_expo.JPEG?raw=true)
+Moi à l'entrée de l'expositon et positioné à côté d'une affiche 
+tout les noms des artistes présenté à cet événement
 
 ### Les dispositifs de l'oeuvre et types d'expositions
  situé temporaire  à l'intérieur de la galeries de l'université de Montréal,Marion Schneider, Nous donnent l'oppoturnité de pouvoir d'expérimenté son oeuvre intercative. Le concept est que l'intelligence artificielle puisse analyser des zones du cerveau humains en affichant le résultat avec des lignes verticales. Exemple, si le casque analyse une émotions négative, les lignes se metteront à bouger intensément de gauche à droite. si il sent que tu es calme les lignes bougeront de gauche à droite tranquillement.
