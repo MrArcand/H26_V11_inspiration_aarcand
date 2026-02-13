@@ -1,6 +1,6 @@
 # EXPOSITON LUMINO | STARGATE
 ___
-## lieu de l'exposition 
+## Lieu de l'exposition 
 Proche de la staion Place Des Arts (Ligne 1 Verte) 🟢
 ___
 ### Prise de notes 
@@ -11,5 +11,5 @@ ___
 ___
 ### Expérience & Observations
 ___
-### vidéos
+### Vidéos
 ___
