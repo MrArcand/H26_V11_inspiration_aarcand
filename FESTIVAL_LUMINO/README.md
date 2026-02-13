@@ -3,6 +3,8 @@ ___
 ## Lieu de l'exposition 
 Proche de la staion Place Des Arts (Ligne 1 Verte) 🟢
 ___
+## À propos de l'expo
+___
 ### Prise de notes 
 ___
 ### Photos
