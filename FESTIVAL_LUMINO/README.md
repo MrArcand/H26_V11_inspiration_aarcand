@@ -18,15 +18,13 @@ ___
 ![photo3](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/IMG_9269.jpeg?raw=true)
 > voici les des projecteurs qui permet de diffusé de la couleir et de l'animation sur la sulcpture montré dans la première photo
 ___
-### Croquis
+
 ___
 ### Expérience & Observations
 
 J'avais des grandes sur l'exposition, je m'attendais à une plus grande atmosphère, un plus grand terrain d'exposition, mais c'était sur un toit
-
-les oeuvres et les équipements permmetant à mettre l'exposition en vie son plutôt petit et peu nomnbreux
-___
-### Vidéo
+les oeuvres et les équipements permmetant à mettre l'exposition en vie son plutôt petit et peu nomnbreux. sur le site, l'expositon paraît beaucoup plus grand
+j'ai à peine passé 7 minutes sur les lieux 
 ___
 ### Références
 le site de l'exposition : https://www.luminomtl.com/fr/activites/oeuvres-exterieures/stargate 
