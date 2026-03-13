@@ -4,7 +4,8 @@ ___
 Collège Montmorency Salle Grand studio 
 ___
 ## À propos de l'expo
-Des étudiants finnisants du programme d'intégration Multimédia ont conçu différentes activités intercative. des jeux vidéos, des expériences, 
+Des étudiants finnisants du programme d'intégration Multimédia ont conçu différentes activités intercative. des jeux vidéos, des projections humoristiques et plus encore 
+les premières année du programme ont été invité a voir ces expositions avant de les afficher au grand publique
 ___
 
 ### Photos
@@ -24,7 +25,7 @@ essayer de remplir le niveau d'eau dans un récipient à une quantité précise.
 vivez une expérience visuel rétro. une partie de votre visage sera zommé et transférer sur une écran téléviser (style années 90'S) 
 ![écran je projection](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/expo_ecole/photos/videos/IMG_9217.JPEG?raw=true)
 > Voici sur quoi l'activité intercative étaient projeté, un écran de télévision vintage
-#### Atelier 4
+#### Jeux Vidéo 8 Bits
 Scannez un QR code avec votre téléphone et controller un petit personnage en pixel essayant de ne pas percuter vos adversaire et completer les niveaux
 ![Écran du Jeu](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/expo_ecole/photos/videos/IMG_9218.JPEG?raw=true)
 > la projection du jeu était projeté sur l'un des mur du grad studio en grand format
@@ -40,5 +41,5 @@ ___
 C'est simplement incroyable le talent que ces étudiants ont en seulement trois ans de technique. les choses qu'ils arrivent à produire en une session est remarquable.
 j'ai beaucoup aimé interagir avec tout les créateurs. j'ai conversations super intéressante dans une dynamique ludique et drôle. super sympathique. 
 ___
-### Vidéo
-___
+### Mon atelier préféré
+Mon atelier préféré est celui du vaisseau spatiale. le tableau de bord a été contruits de tout pièces et il est très bien monté. il donne un vrai look techno et science-fiction. le jeu n'est pas facile  car il est très de ne pas percuter aucun astéroîde, ce qui le rend captivant et addictif
