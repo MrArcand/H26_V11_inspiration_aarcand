@@ -8,8 +8,8 @@ ___
 sous une trame sonore de captivante et douce, de différentes forme avec des couleurs changeantes en continue. Elles sont projeté par deux projecteur. un à l'avant et un à l'arrière, sur une sulpture en forme de carré.
 cette exposition a lieu durant le soir puisque qu'elle a été conçu pour donner un effet réflectif.
 ___
-### photos de la description de l'expo sur place 
-![fiche](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/photo/description_jpg.jpeg?raw=true)
+###  description de l'expo sur place 
+![fiche](photo/description_jpg.jpeg)
 ___
 ### Photos
 ![photo1](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/photo/oeuvre_vue%20_ensemble.jpg?raw=true)
