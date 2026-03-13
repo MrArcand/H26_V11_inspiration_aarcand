@@ -2,8 +2,11 @@
 ___
 ## Lieu de l'exposition 
 Proche de la staion Place Des Arts (Ligne 1 Verte) 🟢
+sur le toit de la salle Wilfrid Pelltier
 ___
 ## À propos de l'expo
+sous une trame sonore de captivante et douce, de différentes forme avec des couleurs changeantes en continue. Elles sont projeté par deux projecteur. un à l'avant et un à l'arrière, sur une sulpture en forme de carré.
+cette exposition a lieu durant le soir puisque qu'elle a été conçu pour donner un effet réflectif.
 ___
 ### photos de la description de l'expo siur place 
 ![description](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/IMG_9270.jpeg?raw=true)
@@ -23,8 +26,7 @@ J'avais des grandes sur l'exposition, je m'attendais à une plus grande atmosph�
 
 les oeuvres et les équipements permmetant à mettre l'exposition en vie son plutôt petit et peu nomnbreux
 ___
-### Vidéos
-![vidéo](
+### Vidéo
 ___
 ### Références
 le site de l'exposition : https://www.luminomtl.com/fr/activites/oeuvres-exterieures/stargate 
