@@ -1,7 +1,7 @@
 # EXPOSITION ACADÉMIQUE | MOMO
 ___
 ## Lieu de l'exposition 
-Collège Montmorency Salle Grand studio 
+Collège Montmorency | Salle Grand studio 
 ___
 ## À propos de l'expo
 Des étudiants finnisants du programme d'intégration Multimédia ont conçu différentes activités intercative. des jeux vidéos, des projections humoristiques et plus encore 
