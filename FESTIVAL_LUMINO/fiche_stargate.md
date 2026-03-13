@@ -9,7 +9,7 @@ sous une trame sonore de captivante et douce, de différentes forme avec des cou
 cette exposition a lieu durant le soir puisque qu'elle a été conçu pour donner un effet réflectif.
 ___
 ### photos de la description de l'expo sur place 
-![fiche](
+![fiche](FESTIVAL_LUMINO/photo/description_jpg.jpeg)
 ___
 ### Photos
 ![photo1](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/IMG_9267.jpeg?raw=true)
