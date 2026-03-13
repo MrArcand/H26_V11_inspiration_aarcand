@@ -1,7 +1,7 @@
 # EXPOSITON LUMINO | STARGATE
 ___
-## Lieu de l'exposition 
-Montréal, Centre-Ville (toit de la salle Wilfrid Pelltier)📍
+## Lieu de l'exposition 📍
+Montréal, Centre-Ville (toit de la salle Wilfrid Pelltier) 
 <br>
 Proche de la staion Place Des Arts (Ligne 1 Verte) 🟢 
 ___
