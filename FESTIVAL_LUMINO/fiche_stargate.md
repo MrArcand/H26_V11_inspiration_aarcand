@@ -18,7 +18,7 @@ ___
 ___
 ![equipement](photo/projecteur_arriere.jpg) ![equipement](photo/projecteur_avant.jpg)
 
-> Voici les des projecteurs qui permet de diffusé de la couleurs, et de l'animation sur la sulcpture montré dans la première photo.
+> Voici les des projecteurs qui permet de diffusé de la couleurs, et de l'animation sur la sulcpture montré dans la première photo. Nous pouvons aussi aperçevoir les haut-parleurs sur le côté des projecteurs. la où la musique est diffusé. Elles ont comme but de propager la musique entres les deux haut-paleurs pour donner une expérience audio en 8D
 ___
 ## Expérience & Observations
 
