@@ -14,8 +14,8 @@ ___
 ### Photos
 ![photo1](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/IMG_9267.jpeg?raw=true)
 > voici l'élément principale de l'exposition 
-![photo2](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/IMG_9268.jpeg?raw=true)
-![photo3](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/IMG_9269.jpeg?raw=true)
+![photo2](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/IMG_9268.jpeg?raw=true) ![photo3](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/IMG_9269.jpeg?raw=true)
+
 > voici les des projecteurs qui permet de diffusé de la couleir et de l'animation sur la sulcpture montré dans la première photo
 ___
 ### Expérience & Observations
