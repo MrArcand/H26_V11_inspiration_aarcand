@@ -6,14 +6,14 @@ ___
 ## À propos de l'expo
 ___
 ### photos de la description de l'expo siur place 
-![description](FESTIVAL_LUMINO/IMG_9270.jpeg)
+![description](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/IMG_9270.jpeg?raw=true)
 ___
 ### Photos
-![photo1](FESTIVAL_LUMINO/IMG_9267.jpeg)
-voici l'élément principale de l'exposition 
-![photo2](FESTIVAL_LUMINO/IMG_9268.jpeg)
-![photo3](FESTIVAL_LUMINO/IMG_9269.jpeg)
-voici les des projecteurs qui permet de diffusé de la couleir et de l'animation sur la sulcpture montré dans la première photo
+![photo1](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/IMG_9267.jpeg?raw=true)
+> voici l'élément principale de l'exposition 
+![photo2](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/IMG_9268.jpeg?raw=true)
+![photo3](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/IMG_9269.jpeg?raw=true)
+> voici les des projecteurs qui permet de diffusé de la couleir et de l'animation sur la sulcpture montré dans la première photo
 ___
 ### Croquis
 ___
