@@ -6,8 +6,8 @@ Montréal, Centre-Ville (toit de la salle Wilfrid Pelltier)
 Proche de la staion Place Des Arts (Ligne 1 Verte) 🟢 
 ___
 ## À propos de l'expo
-Sous une trame sonore  captivante et douce, de différentes forme avec des couleurs changeantes en continue. Elles sont projeté par deux projecteur. Un à l'avant et un à l'arrière, sur une sculpture en forme de carré.
-cette exposition a lieu durant le soir puisque qu'elle a été conçu pour donner un effet réflectif.
+Sous une trame sonore captivante et douce, de différentes forme avec des couleurs changeantes en continue. Elles sont projeté par deux projecteur. Un à l'avant et un à l'arrière, sur une sculpture en forme de carré.
+cette exposition a lieu durant le soir puisque qu'elle a été conçu pour donner un effet réflectif. 
 ___
 ## description de l'expo sur place 
 ![fiche](photo/description.jpg)
