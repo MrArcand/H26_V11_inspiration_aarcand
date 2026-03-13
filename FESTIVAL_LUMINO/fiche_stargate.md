@@ -12,10 +12,10 @@ ___
 ![fiche](photo/description.jpg)
 ___
 ### Photos
-![photo1](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/photo/oeuvre_vue%20_ensemble.jpg?raw=true)
+![photo1](photo/oeuvre_vue_ensemble.jpg)
 > voici l'élément principale de l'exposition 
 ___
-![photo2](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/photo/projecteur_arriere.jpg.jpeg?raw=true) ![photo3](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/FESTIVAL_LUMINO/photo/projecteur_avant.jpg.jpeg?raw=true)
+![equipement](photo/projecteur_arriere.jpg) ![equipement](photo/projecteur_avant.jpg)
 
 > voici les des projecteurs qui permet de diffusé de la couleir et de l'animation sur la sulcpture montré dans la première photo
 ___
