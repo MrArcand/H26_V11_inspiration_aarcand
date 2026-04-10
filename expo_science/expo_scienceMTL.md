@@ -44,3 +44,5 @@ j'aurais fait des rénovations dans l'établissement
 ## Références
 
 Site web du centre des sciences: https://www.centredessciencesdemontreal.com/
+
+pour L'année de réalisation : https://www.lapresse.ca/arts/arts-visuels/2025-03-05/nanualuk/expedition-nordique-au-centre-des-sciences.php
