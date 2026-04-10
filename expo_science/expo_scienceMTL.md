@@ -6,6 +6,8 @@ Centre des sciences | Vieux Port de Montréal
 
 ## Type d'exposition 
 
+exposition interactive 
+
 ## Date de votre visite
  Mercredi 2 Avril 2026 (14:15 - 16:00)
 
@@ -18,10 +20,11 @@ Centre des sciences | Vieux Port de Montréal
 ## Description de l'oeuvre ou du dispositif
 
 ## Type d'installation (contemplative, immersive, interactive)
+immersif interactif
 
 ## Fonction du dispositif multimédia
 
-## Mise en espace
+## Mise en espace 
 
 ## Composantes et techniques
 
