@@ -1,7 +1,7 @@
 # Conférence - Martin Boucher - Musée ingéniosité TP3
 
-J'ai beaucoup aimé lorsque Martin a parlé de l'exposition du métro par rapport au bogie sur l'ancienne voiture, le MR-73 
-j'ai trouvé l'activité intercative, très inspirant et unique. c'est la première fois que j'ai entendu parler d'un jeu sur le son du métro
-Cependant il y avait des petites faille, quand le métro s'arrête, c'est le son du métro AZUR (MPM-10) c'est le plus récent des voitures.
-il aurait pu au moins mettre le son du MR-63 pour camoufler le son du métro donc lequel il a été présenté. 
-en second lieu, j'aurais intégrer la voix de michell deslauriers (La voix du métro depuis 2003) 
+La conférence présentée par Martin Boucher, technicien multimédia au Musée de l’ingéniosité J.‑Armand‑Bombardier, a offert un regard précis sur les coulisses techniques des dispositifs interactifs du musée. L’intervenant a d’abord expliqué son rôle, qui consiste à concevoir, intégrer et maintenir les installations multimédias permettant au public de comprendre l’histoire industrielle et technologique liée à Bombardier.
+
+Dans le développement de sa présentation, Boucher a détaillé plusieurs exemples concrets issus de l’exposition permanente. L’un des moments marquants a été son explication du bogie du MR‑73, élément central du métro montréalais. Il a décrit comment ce châssis supporte les roues et les moteurs, et comment le musée met en valeur ce composant pour illustrer l’ingénierie derrière le transport collectif. Il a également expliqué l’origine du son caractéristique du MR‑73, produit par les variateurs de tension des moteurs électriques. Grâce à des dispositifs sonores et visuels, le musée permet aux visiteurs de comprendre ce phénomène technique souvent remarqué mais rarement expliqué.
+
+En conclusion, j’ai apprécié la conférence pour sa clarté et sa capacité à rendre accessibles des notions mécaniques et multimédias complexes. Les exemples concrets, notamment celui du MR‑73, ont rendu la présentation vivante et pertinente. Cette rencontre m’a permis de mieux saisir l’importance du travail invisible derrière les expositions interactives et la manière dont la technologie peut enrichir l’expérience muséale.
