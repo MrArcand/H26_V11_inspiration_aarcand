@@ -10,11 +10,11 @@ ___
 
 ### Photos
 #### photo Scan et intégration de personnage
-Au momemt où vous entrez dans le grand studio, votre visage est photographié et intégrer dans un petit personnage diffusé sur une toile dans un environement farfelu
+Dès l’entrée dans le Grand Studio, votre visage est photographié puis intégré dans un petit personnage évoluant dans un univers farfelu projeté sur une grande toile.
 ![projection](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/expo_ecole/photos/videos/IMG_9206.JPEG?raw=true)
-> voici sur quoi les photos enregistré sont projeté, une toile(nos photos sont intégrés dans des petits personnages)
+> Projection finale où les personnages animés apparaissent.
 #### Expérience scientifique 
-essayer de remplir le niveau d'eau dans un récipient à une quantité précise. 
+Le défi : remplir un récipient d’eau jusqu’à un niveau précis, en manipulant un système interactif.
 ![écran du jeu](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/expo_ecole/photos/videos/IMG_9210.JPEG?raw=true)
 > voici à quoi le jeu ressemblait
 ![controles](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/expo_ecole/photos/videos/IMG_9209.JPEG?raw=true)
