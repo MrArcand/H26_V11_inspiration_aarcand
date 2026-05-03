@@ -77,7 +77,7 @@ Ce qui m’a particulièrement plu dans l’exposition est l’activité de ryth
 ![Activité rythme](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/expo_science/photos/IMG_9491.jpeg)
 > l'interface
 ##  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-j'aurais fait des rénovations dans l'établissement
+ J’aurais ajouté davantage de sons d’ambiance nordiques — vent, craquements de glace, faune arctique, résonances graves — pour renforcer la sensation de déplacement dans un environnement polaire. Une présence sonore plus enveloppante aurait permis de soutenir la narration de l’expédition et d’accentuer l’immersion émotionnelle.
 
 ## Références
 
