@@ -24,6 +24,7 @@ Centre des sciences de Montréal, en collaboration avec des spécialistes en mé
 ## Type d'installation (contemplative, immersive, interactive)
 immersif interactif
 ![Immersif](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/expo_science/photos/IMG_9490.jpeg)
+> Une partie de l'exposition
 
 ## Fonction du dispositif multimédia
 - Soutenir la narration de l’expédition nordique
@@ -72,6 +73,9 @@ L’immersion sonore et visuelle m’a rappelé des documentaires et des expéri
 
 ## Ce qui m'a plu
 Ce qui m’a particulièrement plu dans l’exposition est l’activité de rythme. Comme j’adore la musique, cette installation m’a immédiatement accroché. Le dispositif permettait de suivre ou de reproduire des séquences sonores, ce qui ajoutait une dimension ludique et sensorielle à l’expérience.
+
+![Activité rythme](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/expo_science/photos/IMG_9491.jpeg)
+> l'interface
 ##  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 j'aurais fait des rénovations dans l'établissement
 
