@@ -23,6 +23,7 @@ Centre des sciences de Montréal, en collaboration avec des spécialistes en mé
 
 ## Type d'installation (contemplative, immersive, interactive)
 immersif interactif
+![Immersif](https://github.com/MrArcand/H26_V11_inspiration_aarcand/blob/main/expo_science/photos/IMG_9490.jpeg)
 
 ## Fonction du dispositif multimédia
 - Soutenir la narration de l’expédition nordique
